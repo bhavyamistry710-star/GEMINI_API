@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Write a Python function that uses the Boto3 library to list all S3 bucket names in the current AWS account."
+  },
+  {
+    "task": "Write a JSON IAM policy document that grants read-only access to a specific S3 bucket named 'my-app-data-bucket'."
+  },
+  {
+    "task": "Write a Regex pattern that validates an AWS resource ARN for an EC2 instance, ensuring it follows the format 'arn:aws:ec2:region:account-id:instance/instance-id'."
+  }
+]
